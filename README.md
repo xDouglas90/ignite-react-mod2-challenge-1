@@ -129,7 +129,7 @@ $ git clone git@github.com:xDouglas90/ignite-react-mod2-challenge-1.git
 ```bash
 $ yarn install ou npm install
 $ yarn server ou npm run server
-$ yarn dev ou npm run dev 
+$ yarn start ou npm start
 ```
 
 
